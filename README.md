@@ -1,4 +1,4 @@
 # FaceDetection
 -----
 using viola-jones algorithm
-* 설명 작성 중...
+* jupyter notebook : [link](https://github.com/K-flor/FaceDetection/blob/main/violajones_algorithm.ipynb)
